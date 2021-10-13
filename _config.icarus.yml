@@ -229,7 +229,7 @@ widgets:
         # Author's current location
         location: 山东 威海
         # URL or path to the avatar image
-        avatar: 
+        avatar: 'https://cdn.hashnode.com/res/hashnode/image/upload/v1625817334201/vq_l69mF_.jpeg?w=400&h=400&fit=crop&crop=faces&auto=compress'
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
