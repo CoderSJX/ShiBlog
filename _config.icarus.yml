@@ -223,7 +223,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: 小时
+        author: 😁小时
         # Author title
         author_title: 火车是向前开的，去哪并不重要，关键在于窗外的风景！
         # Author's current location
@@ -231,7 +231,7 @@ widgets:
         # URL or path to the avatar image
         avatar: 'https://cdn.hashnode.com/res/hashnode/image/upload/v1625817334201/vq_l69mF_.jpeg?w=400&h=400&fit=crop&crop=faces&auto=compress'
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
