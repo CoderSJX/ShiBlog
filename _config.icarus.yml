@@ -12,7 +12,7 @@ head:
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
         # Name of the web application (default to the site title)
-        name: 
+        name: Ridiculous
         # The displayed name of the web application
         # when there is not enough space to display full name
         short_name: 
@@ -223,11 +223,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: 小时
         # Author title
-        author_title: Your title
+        author_title: 火车是向前开的，去哪并不重要，关键在于窗外的风景！
         # Author's current location
-        location: Your location
+        location: 山东 威海
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
@@ -322,6 +322,10 @@ widgets:
         action_url: ''
         # Feed claiming verification code
         verification_code: ''
+
+    -
+        type: recent_posts
+        position: right
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:
